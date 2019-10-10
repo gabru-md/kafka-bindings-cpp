@@ -1,0 +1,1 @@
+simple kafka bindings for librdkafka++ in c++
